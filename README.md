@@ -76,6 +76,14 @@ movie_library/
 
 Screenshots demonstrating the application are available in the `Movie_Library_Submission/` directory.
 
+# 👨‍💻 Author
+
+**John Gerges**
+
+📧 Email: johngwanes@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/john-gerges-a59592336/
+
 ## 📚 Course Assignment
 
 **Course:** Software Development for Mobile Devices  
